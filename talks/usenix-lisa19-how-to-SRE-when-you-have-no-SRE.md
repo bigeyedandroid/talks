@@ -17,3 +17,5 @@
 **Amiya Adwitiya**:     04:24          if you have your SLIs and SLOs in place, you know you got your metrics and your goals and you have a process for response and everything has been documented, then at the end of the day you'll come out better you know, you'll be more reliable. So some useful resources out here, but you need to understand that SRE is a journey. It's important to learn from others, but at the same time, take everything with a pinch of salt because you know what works for other companies might not work for you. So understand the core logic behind you know, why people do things a certain way and then apply that logic to your situation and figure it out you know, how that might work.
 
 **Amiya Adwitiya**:     05:01          Yeah, that's about it at. You can email me at squadcast.com maybe a couple lines about Squad Cast. We are building a platform to take SRE to organizations of every size. So help teams adopt the core principles of SRE and doing that by evolving their own existing practices.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-109315563-1/how-to-SRE-when-you-have-no-SRE/readme)](https://www.squadcast.com)

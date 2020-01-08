@@ -180,3 +180,5 @@ Speaker 1:          37:25          I think there's one last question. Can Squadc
 
 **Harpreet Singh**:     38:24          All right-
 
+
+[![Analytics](https://ga-beacon.appspot.com/UA-109315563-1/making-observability-actionable-at-scale/readme)](https://www.squadcast.com)
